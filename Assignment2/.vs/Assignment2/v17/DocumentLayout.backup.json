@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anabe\\Desktop\\comp376\\Assignments\\Assignment2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{408E2E6F-7CFC-5ABD-33D3-EA84C056C44C}|Assembly-CSharp.csproj|c:\\users\\anabe\\desktop\\comp376\\assignments\\assignment2\\assets\\script\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{408E2E6F-7CFC-5ABD-33D3-EA84C056C44C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{408E2E6F-7CFC-5ABD-33D3-EA84C056C44C}|Assembly-CSharp.csproj|C:\\Users\\anabe\\Desktop\\comp376\\Assignments\\Assignment2\\assets\\script\\win.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{408E2E6F-7CFC-5ABD-33D3-EA84C056C44C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\win.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{408E2E6F-7CFC-5ABD-33D3-EA84C056C44C}|Assembly-CSharp.csproj|C:\\Users\\anabe\\Desktop\\comp376\\Assignments\\Assignment2\\assets\\script\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{408E2E6F-7CFC-5ABD-33D3-EA84C056C44C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{408E2E6F-7CFC-5ABD-33D3-EA84C056C44C}|Assembly-CSharp.csproj|C:\\Users\\anabe\\Desktop\\comp376\\Assignments\\Assignment2\\assets\\script\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{408E2E6F-7CFC-5ABD-33D3-EA84C056C44C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{408E2E6F-7CFC-5ABD-33D3-EA84C056C44C}|Assembly-CSharp.csproj|C:\\Users\\anabe\\Desktop\\comp376\\Assignments\\Assignment2\\assets\\script\\candy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{408E2E6F-7CFC-5ABD-33D3-EA84C056C44C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\candy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{408E2E6F-7CFC-5ABD-33D3-EA84C056C44C}|Assembly-CSharp.csproj|C:\\Users\\anabe\\Desktop\\comp376\\Assignments\\Assignment2\\assets\\script\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{408E2E6F-7CFC-5ABD-33D3-EA84C056C44C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{408E2E6F-7CFC-5ABD-33D3-EA84C056C44C}|Assembly-CSharp.csproj|C:\\Users\\anabe\\Desktop\\comp376\\Assignments\\Assignment2\\assets\\script\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{408E2E6F-7CFC-5ABD-33D3-EA84C056C44C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tile.cs",
+              "DocumentMoniker": "C:\\Users\\anabe\\Desktop\\comp376\\Assignments\\Assignment2\\Assets\\Script\\Tile.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Tile.cs",
+              "ToolTip": "C:\\Users\\anabe\\Desktop\\comp376\\Assignments\\Assignment2\\Assets\\Script\\Tile.cs",
+              "RelativeToolTip": "Assets\\Script\\Tile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T21:44:49.61Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Win.cs",
+              "DocumentMoniker": "C:\\Users\\anabe\\Desktop\\comp376\\Assignments\\Assignment2\\Assets\\Script\\Win.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Win.cs",
+              "ToolTip": "C:\\Users\\anabe\\Desktop\\comp376\\Assignments\\Assignment2\\Assets\\Script\\Win.cs",
+              "RelativeToolTip": "Assets\\Script\\Win.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T00:25:05.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\anabe\\Desktop\\comp376\\Assignments\\Assignment2\\Assets\\Script\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\anabe\\Desktop\\comp376\\Assignments\\Assignment2\\Assets\\Script\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Script\\MainMenu.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:45:03.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PauseMenu.cs",
+              "DocumentMoniker": "C:\\Users\\anabe\\Desktop\\comp376\\Assignments\\Assignment2\\Assets\\Script\\PauseMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PauseMenu.cs",
+              "ToolTip": "C:\\Users\\anabe\\Desktop\\comp376\\Assignments\\Assignment2\\Assets\\Script\\PauseMenu.cs",
+              "RelativeToolTip": "Assets\\Script\\PauseMenu.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwCgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:38:42.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameOver.cs",
+              "DocumentMoniker": "C:\\Users\\anabe\\Desktop\\comp376\\Assignments\\Assignment2\\Assets\\Script\\GameOver.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameOver.cs",
+              "ToolTip": "C:\\Users\\anabe\\Desktop\\comp376\\Assignments\\Assignment2\\Assets\\Script\\GameOver.cs",
+              "RelativeToolTip": "Assets\\Script\\GameOver.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T01:05:03.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\anabe\\Desktop\\comp376\\Assignments\\Assignment2\\Assets\\Script\\Board.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Board.cs",
+              "ToolTip": "C:\\Users\\anabe\\Desktop\\comp376\\Assignments\\Assignment2\\Assets\\Script\\Board.cs",
+              "RelativeToolTip": "Assets\\Script\\Board.cs",
+              "ViewState": "AgIAAPYDAAAAAAAAAAAjwAoDAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T23:20:45.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Candy.cs",
+              "DocumentMoniker": "C:\\Users\\anabe\\Desktop\\comp376\\Assignments\\Assignment2\\Assets\\Script\\Candy.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Candy.cs",
+              "ToolTip": "C:\\Users\\anabe\\Desktop\\comp376\\Assignments\\Assignment2\\Assets\\Script\\Candy.cs",
+              "RelativeToolTip": "Assets\\Script\\Candy.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwDYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T21:30:26.424Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
